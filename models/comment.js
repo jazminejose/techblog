@@ -1,5 +1,5 @@
 const { Model, DataTypes } = require('sequelize')
-const sequelize = require('../config/connection.js')
+const sequelize = require('../db')
 
 class Comment extends Model { }
 Comment.init({
@@ -7,10 +7,6 @@ Comment.init({
     type: DataTypes.STRING,
     allowNull: false
   },
-  username: {
-  type: DataTypes.STRING,
-  allowNull: false,
-  }
 }, { sequelize, modelName: 'comment'  })
 
 module.exports = Comment
