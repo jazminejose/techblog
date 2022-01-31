@@ -16,7 +16,7 @@ Tech blog
 
 Deployed Link: <a href="">Heroku</a>
 
-<img src="(https://user-images.githubusercontent.com/92974218/151761595-da500ee2-8847-464f-bef0-7f9d8bd88079.png" alt="index.html">
+<img src="https://user-images.githubusercontent.com/92974218/151761595-da500ee2-8847-464f-bef0-7f9d8bd88079.png" alt="index.html">
 
 ## Installation
 
