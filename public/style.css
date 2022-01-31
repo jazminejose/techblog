@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  color: black;
+}
+.container {
+  background-color: black;
+  border: 1px solid white;
+  padding: 10px;
+}
