@@ -14,7 +14,7 @@
 ## Description
 Tech blog
 
-Deployed Link: <a href="">Heroku</a>
+Deployed Link: <a href="https://murmuring-temple-89016.herokuapp.com/login.html">Heroku</a>
 
 <img src="https://user-images.githubusercontent.com/92974218/151761595-da500ee2-8847-464f-bef0-7f9d8bd88079.png" alt="index.html">
 
